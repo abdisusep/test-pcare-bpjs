@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Diagnosa",
+        "endpoint": "diagnosa\/{kdDiagnosa}\/{start}\/{limit}"
+    },
+    {
+        "id": 2,
+        "name": "Dokter",
+        "endpoint": "dokter\/{start}\/{limit}"
+    },
+    {
+        "id": 3,
+        "name": "Kesadaran",
+        "endpoint": "kesadaran"
+    },
+    {
+        "id": 4,
+        "name": "MCU",
+        "endpoint": "mcu"
+    },
+    {
+        "id": 5,
+        "name": "Peserta",
+        "endpoint": "peserta\/{noKartu}"
+    },
+    {
+        "id": 6,
+        "name": "Poli",
+        "endpoint": "poli\/fktp\/{start}\/{limit}"
+    },
+    {
+        "id": 7,
+        "name": "Provider",
+        "endpoint": "provider\/{start}\/{limit}"
+    },
+    {
+        "id": 8,
+        "name": "Tindakan",
+        "endpoint": "tindakan"
+    },
+    {
+        "id": 9,
+        "name": "Status Pulang",
+        "endpoint": "statuspulang\/rawatInap\/{true\/false}"
+    },
+    {
+        "id": 10,
+        "name": "Spesialis",
+        "endpoint": "spesialis"
+    },
+    {
+        "id": 11,
+        "name": "Rujukan",
+        "endpoint": "kunjungan\/rujukan\/{noKunjungan}"
+    },
+    {
+        "id": 12,
+        "name": "Riwayat Kunjungan",
+        "endpoint": "kunjungan\/peserta\/{noKartu}"
+    },
+    {
+        "id": 13,
+        "name": "Obat",
+        "endpoint": "obat\/dpho\/{keyword}\/{start}\/{limit}"
+    },
+    {
+        "id": 14,
+        "name": "Obat by Kunjungan",
+        "endpoint": "obat\/kunjungan\/{noKunjungan}"
+    },
+    {
+        "id": 15,
+        "name": "Pendaftaran by Nomor Urut",
+        "endpoint": "pendaftaran\/noUrut\/{noUrut}\/tglDaftar\/{tglDaftar}"
+    },
+    {
+        "id": 16,
+        "name": "Pendaftaran Provider",
+        "endpoint": "pendaftaran\/{tanggal}\/{start}\/{limit}"
+    },
+    {
+        "id": 17,
+        "name": " Peserta by Jenis Kartu",
+        "endpoint": "peserta\/{jnsKartu}[nik,noka]\/{keyword}"
+    }
+]

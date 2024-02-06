@@ -1,0 +1,11 @@
+{
+    "cons_id": "18755",
+    "secret_key": "5jU3C85069",
+    "username": "rahmahmedika",
+    "password": "Password1!",
+    "userkey": "fa2595b261b72ce6d354aed04233b640",
+    "kode_app": "095",
+    "url_dev": "https:\/\/apijkn-dev.bpjs-kesehatan.go.id\/pcare-rest-dev",
+    "url_prod": "https:\/\/apijkn.bpjs-kesehatan.go.id\/pcare-rest\/",
+    "tipe": "dev"
+}
